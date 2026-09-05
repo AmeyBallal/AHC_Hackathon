@@ -1,0 +1,1 @@
+print("AHC Video Anomaly Detection project is running!")

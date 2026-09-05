@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset and video files
+data/
+*.mp4
+*.avi
+*.mov
+
+# Model files
+*.pt
+*.pth
+*.safetensors
+*.onnx
+
+# Environment / API keys
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output files
+outputs/
